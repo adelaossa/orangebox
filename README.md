@@ -1,17 +1,12 @@
-# Orange Box Template
+# Taller 02: Git
 
-Slicing PSD Free Template into a standard HTML and CSS files.<br>
-[Gustavo Jose Morales Carpio](http://about.me/gustavo.morales) (Front End Web Developer)
+## Integrantes
+> Ingris Santodomingo
+> Andres de la Ossa
+> Jhonnathan Gutierrez
+> Jorge Madero
 
-## Features
-Version 1.0.0
-
-- HTML and CSS Compilant with W3C Validator
-- HTML5 Tags: header, nav, aside, section, article and footer
-- HTML Web Semantic
-- CSS3
-
-See the changelog in the [Wiki](https://github.com/gmoralesc/orangebox/wiki)
-
-![Orange Box Template](https://dl.dropboxusercontent.com/u/108552800/orangebox.png "Screenshot")
-
+## Objetivos
+1.Instalar, Configurar Git
+2.Trabajar en Equipo Mediante la Realizacion de Un Proyecto
+3. Publicar el Repositorio de Git en GitHub
